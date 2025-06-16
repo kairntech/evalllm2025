@@ -1,0 +1,4 @@
+plac==0.9.6
+pydantic==1.10.8
+wasabi==0.10.1
+pymultirole_plugins
