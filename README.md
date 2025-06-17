@@ -9,8 +9,8 @@ python evalllm_vote.py data/run1.json data/run2.json output
 ```
 
 ## Script de génération d'un run de "vote" entre 2 runs existants
-evalllm_vote.py
+json2evalllm.py
 ```
-python evalllm_vote.py data/run1.json data/run2.json output
+python json2evalllm.py data/src_events.json output
 ```
 
